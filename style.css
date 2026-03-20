@@ -36,6 +36,13 @@ body {
     margin-bottom: 75px;
     position: relative;
 }
+
+.titulo2 {
+    text-align: center;
+    position: relative;
+}
+
+
 .menu-link {
     display: inline-block;
     padding: 12px 30px;
@@ -75,6 +82,16 @@ body {
     margin: 0 auto;
     max-width: 1200px;
 }
+.videocont2 {
+    display: flex;     
+    justify-content: center;
+    align-items: center;
+    gap: 0px;                
+    flex-wrap: wrap;      
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
 .video-principal {
     width: 320px; 
     background: rgba(20, 25, 30, 0.8);
